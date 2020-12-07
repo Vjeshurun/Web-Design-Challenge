@@ -1,0 +1,16 @@
+.bg {
+    background-color: gray;
+  }
+  
+  .navbar {
+    margin-bottom: 50px;
+  }
+  
+  .container {
+    margin-top: 40px;
+  }
+  
+  img.active {
+    border: 1px purple solid;
+  }
+  
